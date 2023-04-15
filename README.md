@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by;I'm+a+full-stack+developer)](https://git.io/typing-svg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kehrenclou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kehrenclou&hide=jupiternotebooks&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kehrenclou)](https://github.com/kehrenclou/github-readme-stats)
 <!--
