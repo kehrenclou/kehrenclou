@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 <h1>Krista Ehrenclou - @kehrenclou</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&duration=3500&pause=300&color=0c1ff7&center=true&vCenter=true&multiline=true&width=550&height=200&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+leads.;I'm+an+innovator+and+creator%2C;a+winemaker%2C;a+full+stack+developer.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
-
+##About Me
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&duration=3500&pause=300&repeat=false&color=0a0047&center=false&vCenter=true&multiline=false&width=550&height=40&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+leads.;I+like+to+make+things.;I+am+a+winemaker.;I+am+a+Full+Stack+Developer.;Always+open+to+learn+something+new.;Get+in+Touch!;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
   <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
  </picture>
