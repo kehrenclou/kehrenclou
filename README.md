@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by;I'm+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aloha!+My+name+is+Krista;I+like+to+see+where+curiosity+will+take+me;I'm+a+winemaker+,;I'm+an+innovator;I'm+a+full-stack+developer;Let's+create+something+amazing!)](https://git.io/typing-svg)
 
 
 <!-- <a href="https://github.com/kehrenclou">
