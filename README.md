@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4981&pause=500&color=FAFF19&background=121F11&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+will+take+me.;I'm+an+innovator+and+creator%2C;a+winemaker%2C;I'm+a+full+stack+developer.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
 <!-- 
-![Snake animation](https://raw.githubusercontent.com/kehrenclou/kehrenclou/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kehrenclou/kehrenclou/blob/output/github-contribution-grid-snake.svg)
 -->
 <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
