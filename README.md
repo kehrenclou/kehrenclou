@@ -5,7 +5,9 @@
 <!-- 
 ![Snake animation](https://raw.githubusercontent.com/kehrenclou/kehrenclou/blob/output/github-contribution-grid-snake.svg)
 -->
-![Snake animation](https://github.com/kehrenclou/kehrenclou/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ### Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
