@@ -3,7 +3,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kehrenclou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kehrenclou&hide=jupyter%20notebook)](https://github.com/kehrenclou/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kehrenclou&hide=jupyter%20notebook)](https://github.com/kehrenclou/github-readme-stats)
+
 <!--
 **kehrenclou/kehrenclou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
