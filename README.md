@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Mukta&duration=4000&pause=1000&color=faff19&background=121f11&center=true&vCenter=true&multiline=true&width=500&height=500&lines=Aloha!+My+name+is+Krista;I+like+to+see+where+curiosity+will+take+me;I'm+an+innovator,; a+winemaker+,; a life-long+learner;I'm+a+full-stack+developer;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4000&pause=1000&color=FAFF19&background=121F11&center=true&vCenter=true&multiline=true&width=500&height=500&lines=Aloha!+My+name+is+Krista;I+like+to+see+where+curiosity+will+take+me;I'm+an+innovator,; a+winemaker,; a+life-long+learner;I'm+a+full-stack+developer;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
 
 <!-- <a href="https://github.com/kehrenclou">
