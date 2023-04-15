@@ -1,14 +1,10 @@
-<p align="center">
+<div align="center">
 <h1>Krista Ehrenclou - @kehrenclou</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4981&pause=500&color=00ffd2&background=000000&center=true&vCenter=true&multiline=true&width=750&height=200&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+will+take+me.;I'm+an+innovator+and+creator%2C;a+winemaker%2C;I'm+a+full+stack+developer.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
- </picture>
-  
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
 ### Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
@@ -28,9 +24,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <a href="https://github.com/kehrenclou">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kehrenclou&layout=compact&hide=jupyter%20notebook" />
-</>
+</a>
 
-</p>
+  <picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
+ </picture>
+  
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
   
 <!--
 **kehrenclou/kehrenclou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
