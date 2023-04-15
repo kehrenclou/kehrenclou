@@ -5,7 +5,10 @@
 <!-- 
 ![Snake animation](https://raw.githubusercontent.com/kehrenclou/kehrenclou/blob/output/github-contribution-grid-snake.svg)
 -->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
+ </picture>
+  
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ### Languages & Technologies
