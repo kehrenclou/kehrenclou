@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aloha!+My+name+is+Krista;I+like+to+see+where+curiosity+will+take+me;I'm+a+winemaker+,;I'm+an+innovator;I'm+a+full-stack+developer;Let's+create+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Mukta&pause=1000&width=500&lines=Aloha!+My+name+is+Krista;I+like+to+see+where+curiosity+will+take+me;I'm+an+innovator;I'm+a+winemaker+;I'm+a+full-stack+developer;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
 
 <!-- <a href="https://github.com/kehrenclou">
