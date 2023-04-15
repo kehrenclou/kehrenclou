@@ -1,15 +1,15 @@
 <div align="center">
 <h1>Krista Ehrenclou - @kehrenclou</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4981&pause=500&color=00ffd2&background=000000&center=true&vCenter=true&multiline=true&width=550&height=200&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+will+take+me.;I'm+an+innovator+and+creator%2C;a+winemaker%2C;I'm+a+full+stack+developer.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=3500&pause=300&color=00ffd2&background=000000&center=true&vCenter=true&multiline=true&width=550&height=200&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+will+take+me.;I'm+an+innovator+and+creator%2C;a+winemaker%2C;a+full+stack+developer.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
   <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
  </picture>
   
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+  ### Languages & Technologies
 
-### Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React) 
@@ -21,15 +21,13 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)
 
-<a href="https://github.com/kehrenclou">
+  <a href="https://github.com/kehrenclou">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kehrenclou&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/kehrenclou">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kehrenclou&layout=compact&hide=jupyter%20notebook" />
 </a>
-
-
 </div>
   
 <!--
