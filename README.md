@@ -4,7 +4,8 @@
 </p>  
 
   ## About Me
-  ###  I am a full-stack developer (MERN stacck). These days, I am really fascinated by state management and state machines and hope to do more projects with different systems to improve my understanding.  Always looking for opportunites to learn and improve.
+  ###  I am a full-stack developer (MERN stack). These days, I am really fascinated by state management and state machines and hope to do more projects with different systems to improve my understanding.  
+  ### Always looking for opportunites to learn and improve.
   
  - 🔭 I’m currently working on my final project for Bootcamp **haikukedoodle - a haiku song generator**
 
