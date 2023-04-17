@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently finishing **bootcamp coursework for MongoDB, Express, React, Node.js**
 
-- 🌱 Next up on the learning list ** tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...
+- 🌱 Next up on the learning list **SQL, tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...
 
 - 🤝 I’m looking for help with **finding a good project to start learning XState**
 
