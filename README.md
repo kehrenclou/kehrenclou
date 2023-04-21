@@ -1,6 +1,6 @@
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&weight=700&duration=3500&pause=300&repeat=false&color=3700b3&center=false&vCenter=true&multiline=true&width=550&height=90&lines=Aloha!+My+name+is+Krista+Ehrenclou!;I+like+to+follow+where+curiosity+leads...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&weight=700&duration=3500&pause=300&repeat=false&color=3700b3&center=false&vCenter=true&multiline=true&width=600&height=90&lines=Aloha!+My+name+is+Krista+Ehrenclou!;I+like+to+follow+where+curiosity+leads...;)](https://git.io/typing-svg)
 </p>  
 
   ## About Me
