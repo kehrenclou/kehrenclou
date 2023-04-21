@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kedoodledev@gmail.com**
 
-- ⚡ Fun fact **I am a winemaker, I collect chia pets, I like to listen to ATC, and appreciate something punny**
+- ⚡ Fun fact **I am a winemaker, I collect chia pets, I like to listen to ATC, I make pretzles and ALWAYS appreciate something punny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
