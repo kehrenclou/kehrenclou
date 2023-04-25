@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **finding a good project to start learning XState**
 
-- 👨‍💻 All of my projects are available at [(TBD - under construction)]((TBD - under construction))
+<!-- - 👨‍💻 All of my projects are available at [(TBD - under construction)]((TBD - under construction)) -->
 
 - 💬 Ask me about **anything - if I can help I will!**
 
