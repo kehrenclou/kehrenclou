@@ -4,22 +4,14 @@
 </p>  
 
   ## About Me
-  ###  I am a full-stack developer (MERN stack). These days, I am really fascinated by state management and state machines and hope to do more projects with different systems to improve my understanding.  
-  ### Always looking for opportunites to learn and improve.
+  ###  I am a full-stack React developer. I'm passionate about minimizing complexity in state management and these days I'm fascinated by state management through state machines.
+  ### Always looking for opportunities to learn new things and contribute to new projects.
   
- - 🔭 I’m currently working on my final project for Bootcamp **haikukedoodle - a haiku song generator using text-davinci-003 and tone.js**
+ - 🔭 I’m currently working on **haikukedoodle - a haiku song generator using text-davinci-003 and tone.js**
 
-- 🌱 I’m currently finishing **bootcamp coursework for MongoDB, Express, React, Node.js**
+- 🌱 Looking for projects to improve my knowledge in **SQL, tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...**
 
-- 🌱 Next up on the learning list **SQL, tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...**
-
-- 🤝 I’m looking for help with **finding a good project to start learning XState**
-
-<!-- - 👨‍💻 All of my projects are available at [(TBD - under construction)]((TBD - under construction)) -->
-
-- 💬 Ask me about **anything - if I can help I will!**
-
-- 📫 How to reach me **kedoodledev@gmail.com**
+- 💬 Ask me about **anything - if I can help I will!** email me **kedoodledev@gmail.com**
 
 - ⚡ Fun fact **I am a winemaker, I collect chia pets, I like to listen to ATC, I make pretzles and ALWAYS appreciate something punny**
 
@@ -55,19 +47,10 @@
   
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kehrenclou&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=jupyter%20notebook" alt="kehrenclou" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kehrenclou&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="kehrenclou" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kehrenclou&&theme=tokyonight" alt="kehrenclou" /></p>
 </div>
   
-   <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kehrenclou/kehrenclou/output/github-contribution-grid-snake.svg">
- </picture> 
-  _generated with [Platane/snk](https://github.com/Platane/snk)_
-  
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&duration=3500&pause=300&repeat=false&color=0a0047&center=false&vCenter=true&multiline=false&width=550&height=40&lines=Aloha!+My+name+is+Krista!;I+like+to+see+where+curiosity+leads.;I+like+to+make+things.;I+am+a+winemaker.;I+am+a+Full+Stack+Developer.;Always+open+to+learn+something+new.;Get+in+Touch!;Let's+create+something+amazing+together!)](https://git.io/typing-svg) -->
-<!--
 
 
 **kehrenclou/kehrenclou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
