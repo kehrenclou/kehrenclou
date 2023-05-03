@@ -1,6 +1,6 @@
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&weight=700&duration=3500&pause=300&repeat=false&color=3700b3&center=false&vCenter=true&multiline=true&width=600&height=90&lines=Aloha!+My+name+is+Krista+Ehrenclou!;I+like+to+follow+where+curiosity+leads...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&weight=700&duration=3500&pause=300&repeat=false&color=3700b3&center=false&vCenter=true&multiline=true&width=600&height=90&lines=Howdy!+My+name+is+Krista+Ehrenclou!;I+like+to+follow+where+curiosity+leads...;)](https://git.io/typing-svg)
 </p>  
 
   ## About Me
@@ -53,18 +53,4 @@
   
 
 
-**kehrenclou/kehrenclou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
