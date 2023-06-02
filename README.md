@@ -4,7 +4,7 @@
 </p>  
 
   ### About Me
-  ####  I am a full-stack React developer based in Northern California.  I fell in love with coding while working as a winemaker and began creating automated tools using VBA to make our workflow easier and make better decisions.  It inspired me to reskill and become a full-time developer. I am thrive on tackling challenging problems and creating innovative solutions.
+  ####  I am a full-stack React developer based in Northern California.  I fell in love with coding while working as a winemaker and began creating automated tools using VBA to make our workflow easier and make better decisions.  It inspired me to reskill and become a full-time developer. I am thrive on tackling challenging problems and creating innovative solutions.  Gold star if the project helps the end user accomplish something more efficiently or with better quality.
   
 -  I’m currently working on **haikukedoodle - a haiku song generator using openai's text-davinci-003 and tone.js**
 
