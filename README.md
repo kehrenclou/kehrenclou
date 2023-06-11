@@ -8,11 +8,14 @@
   
 -  I’m currently working on **haikukedoodle - a haiku song generator using openai's text-davinci-003 and tone.js**
 
--  Looking for projects to improve my knowledge in **SQL, tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...**
+-  Looking to improve my knowledge in **Typescript,SQL,tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...**
 
 
 
-
+### View project demos here:
+ <p align="left"> 
+ <a href="https://youtube.com/@kristaehrenclou">https://youtube.com/@kristaehrenclou</a>
+ </p>          
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
