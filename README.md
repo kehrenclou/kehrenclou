@@ -12,7 +12,7 @@
 
 
 
-### View a collection of my project demos here:
+### View videos of somme of my project demos here:
  <p align="left"> 
  <a href="https://youtube.com/@kristaehrenclou">https://youtube.com/@kristaehrenclou</a>
  </p>          
