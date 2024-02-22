@@ -8,9 +8,6 @@
   
 -  I’m currently working on **haikukedoodle - a haiku song generator using openai's text-davinci-003 and tone.js**
 
--  Looking to improve my knowledge in **Typescript,SQL,tailwind, graphql, gatspy, XState, recoil, redux, MobX, AWS ...**
-
-
 
 ### View videos of some of my project demos here:
  <p align="left"> 
@@ -29,13 +26,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React) 
 ![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) <br/>
-![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![StyledComponents](https://img.shields.io/badge/Styled_Components-000?style=for-the-badge&logo=styled-components)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)
-![ESLINT](https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logo)
- ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)  
+
 
 
  
@@ -44,7 +35,6 @@
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kehrenclou&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=jupyter%20notebook" alt="kehrenclou" /></p>
 
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kehrenclou&&theme=tokyonight" alt="kehrenclou" /></p>
 </div>
   
 
